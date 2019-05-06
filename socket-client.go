@@ -2,7 +2,7 @@ package go_futu_api
 
 import (
 	"github.com/golang/protobuf/proto"
-	"go-futu-api/pb/InitConnect"
+	"github.com/x6doooo/go-futu-api/pb/InitConnect"
 	"net"
 )
 
