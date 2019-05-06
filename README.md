@@ -66,4 +66,4 @@ func main() {
 ```
 
 * Credit
-This package is heavily inspired by [[https://github.com/htq310542/limgo-for-FutuOpenD][limgo-for-FutuOpenD]]
+This package is heavily inspired by [[https://github.com/FutunnOpen/py-futu-api][py-futu-api]] for Python & [[https://github.com/yongxiongwei/futu][futu]]
