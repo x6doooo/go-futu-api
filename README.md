@@ -64,3 +64,6 @@ func main() {
 }
 
 ```
+
+* Credit
+This package is heavily inspired by [[https://github.com/htq310542/limgo-for-FutuOpenD][limgo-for-FutuOpenD]]
