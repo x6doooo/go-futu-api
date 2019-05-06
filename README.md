@@ -1,5 +1,5 @@
 
-### Example
+## Example
 
 ```go
 package main
@@ -65,5 +65,6 @@ func main() {
 
 ```
 
-* Credit
-This package is heavily inspired by [[https://github.com/FutunnOpen/py-futu-api][py-futu-api]] for Python & [[https://github.com/yongxiongwei/futu][futu]]
+## Credit
+
+This package is heavily inspired by [py-futu-api](https://github.com/FutunnOpen/py-futu-api) for Python & [futu](https://github.com/yongxiongwei/futu)
